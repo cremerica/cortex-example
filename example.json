@@ -1,1 +1,1 @@
-{"name":"location list","version":1.2,"locations":[{"location":"Ohio","is_branch":false,"entered_by":"fernando.cremer@cortex.io"},{"location":"Oregon","is_branch":true,"entered_by":"fernando.cremer@cortex.io"}]}
+{"name":"location list","version":1.2,"locations":[{"location":"Ohio","is_branch":false,"entered_by":"fernando.cremer@cortex.io"},{"location":"Oregon","is_branch":true,"entered_by":"fernando.cremer@cortex.io"},{"location":"Oregon","is_branch":false,"entered_by":"fernando.cremer@cortex.io"}]}
